@@ -2,7 +2,7 @@
 - meu e-mail de contato e sthefany.maiarajesusde.oliveira@escola.pr.gov.br
 - estou interessada em aprender novas linguagens
 - eu estou aprendendo  a programar recentemente a linguagem  javascrit e scratch
-
+-Sou estudante da escola ivb
 
 
 <!---
